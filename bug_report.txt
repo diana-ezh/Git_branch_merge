@@ -1,5 +1,3 @@
-Bag Reports
-
 ID
 Sammary
 Description
