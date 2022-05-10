@@ -1,0 +1,13 @@
+Bag Reports
+
+ID
+Sammary
+Description
+Steps to reproduce
+Reproducibility
+Severity
+Priority
+Symptom
+Workaround
+Comments
+Attachments
